@@ -5,6 +5,7 @@ import store from "./store";
 import 'admin-lte/dist/css/adminlte.min.css'
 import '@fortawesome/fontawesome-free/css/all.min.css'
 
+
 require('admin-lte')
 require('jquery')
 require('bootstrap')
