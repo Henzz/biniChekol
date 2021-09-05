@@ -12,9 +12,6 @@ require("bootstrap");
 require("admin-lte");
 require("jquery");
 
-window.Popper = require('popper.js').default;
-window.$ = window.jQuery = require('jquery');
-
 Vue.config.productionTip = false;
 
 new Vue({
